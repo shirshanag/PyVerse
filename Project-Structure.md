@@ -1317,6 +1317,8 @@
     * [Data-Analysis-Advance-Modelling-On-Pokemons](Machine_Learning/pokemon-data-analysis-and-legendary-classification-main/data-analysis-advance-modelling-on-pokemons.ipynb)
   * Smartphone Rate Prediction
     * [Main](Machine_Learning/smartphone_rate_prediction/main.py)
+  * Spam Email Detect
+    * [Model](Machine_Learning/spam_email_detect/model.py)
 
 ## Tutorials
   * Data Science
